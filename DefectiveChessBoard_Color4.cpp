@@ -92,6 +92,8 @@ void solveDCB(index v_limit, index h_limit, index defect){
 	}
 	++tromino;
 	
+	delete[] quadrant;
+	
 	solveDCB(v_limit_q1,h_limit_q1,q1d);
 	solveDCB(v_limit_q2,h_limit_q2,q2d);
 	solveDCB(v_limit_q3,h_limit_q3,q3d);
