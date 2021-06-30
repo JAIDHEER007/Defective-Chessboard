@@ -1,22 +1,22 @@
 # Defective Chessboard 
 
 ### Solving of Defective Chessboard Problem using Divide and Conquer strategy
-<img src="./Images/Defective Chessboard.gif" alt="Implementation of Defective Chessboard Problem" widht=553 height=553/>
+<img id="DandC" src="./Images/Defective Chessboard.gif" alt="Implementation of Defective Chessboard Problem" widht=553 height=553/>
 <hr>
 
 ## Output Images
-<img src="./Images/G_Size4.jpg" alt="Output for Grid Size 4"/>
+<img id="GS4" src="./Images/G_Size4.jpg" alt="Output for Grid Size 4"/>
 <hr>
-<img src="./Images/G_Size8.jpg" alt="Output for Grid Size 8"/>
+<img id="GS8" src="./Images/G_Size8.jpg" alt="Output for Grid Size 8"/>
 <hr>
-<img src="./Images/G_Size16.jpg" alt="Output for Grid Size 16"/>
+<img id="GS16" src="./Images/G_Size16.jpg" alt="Output for Grid Size 16"/>
 <hr>
-<img src="./Images/G_Size32.jpg" alt="Output for Grid Size 32"/>
+<img id="GS32" src="./Images/G_Size32.jpg" alt="Output for Grid Size 32"/>
 <hr>
-<img id="64" src="./Images/G_Size64.jpg" alt="Output for Grid Size 64"/>
+<img id="GS64" src="./Images/G_Size64.jpg" alt="Output for Grid Size 64"/>
 <hr>
 
 ## Output GIFS
-<img src="./Images/DCB_Color1.gif" alt="Output1"/>
+<img id="OGif1" src="./Images/DCB_Color1.gif" alt="Output1"/>
 <hr>
-<img src="./Images/DCB_Color2.gif" alt="Output2"/>
+<img id="OGif2" src="./Images/DCB_Color2.gif" alt="Output2"/>
