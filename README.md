@@ -13,7 +13,7 @@
 <hr>
 <img src="./Images/G_Size32.jpg" alt="Output for Grid Size 32"/>
 <hr>
-<img src="./Images/G_Size64.jpg" alt="Output for Grid Size 64"/>
+<img id="64" src="./Images/G_Size64.jpg" alt="Output for Grid Size 64"/>
 <hr>
 
 ## Output GIFS
